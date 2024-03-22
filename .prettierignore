@@ -1,0 +1,7 @@
+.idea
+.next
+node_modules
+
+.prisma/migrations/
+
+README.md
